@@ -1,0 +1,126 @@
+{
+  "uid": null,
+  "slug": "retour-d-iralnde-avec-morvan-massif-trio",
+  "canonicalUrl": "https://openagenda.com/nevers-agglomeration/event/retour-d-iralnde-avec-morvan-massif-trio",
+  "title": {
+    "fr": "Retour d'Irlande avec Morvan Massif trio"
+  },
+  "description": {
+    "fr": "Retour d'Irlande avec Morvan Massif trio"
+  },
+  "longDescription": {},
+  "keywords": {
+    "fr": [
+      "AMTCN",
+      "Nevers",
+      "Eduens",
+      "Dominique Forges",
+      "Musique Traditionelle"
+    ]
+  },
+  "html": {},
+  "image": "https://cibul.s3.amazonaws.com/event_retour-d-iralnde-avec-morvan-massif-trio_408881.jpg",
+  "thumbnail": "https://cibul.s3.amazonaws.com/evtbevent_retour-d-iralnde-avec-morvan-massif-trio_408881.jpg",
+  "originalImage": "https://cibul.s3.amazonaws.com/evfevent_retour-d-iralnde-avec-morvan-massif-trio_408881.jpg",
+  "age": null,
+  "accessibility": {
+    "mi" : true
+  },
+  "updatedAt": "2019-11-13T10:34:30.000Z",
+  "createdAt": "2019-10-03T15:28:29.000Z",
+  "range": {
+    "fr": "Vendredi 29 novembre, 20h30",
+    "en": "Friday 29 November, 20:30"
+  },
+  "imageCredits": null,
+  "origin": {
+    "uid": 39790257
+  },
+  "conditions": {
+    "fr": "Entrée : 5 €"
+  },
+  "registrationUrl": null,
+  "region": "Bourgogne-Franche-Comté",
+  "timings": [
+    {
+      "start": "2019-11-29T19:30:00.000Z",
+      "end": "2019-11-29T21:00:00.000Z"
+    }
+  ],
+  "registration": [],
+  "firstDate": "2019-11-29",
+  "firstTimeStart": "20:30",
+  "firstTimeEnd": "22:00",
+  "lastDate": "2019-11-29",
+  "lastTimeStart": "20:30",
+  "lastTimeEnd": "22:00",
+  "featured": 0,
+  "hasPrivateCustomFields": false,
+  "custom": {},
+  "contributor": null,
+  "category": null,
+  "tags": [
+    {
+      "label": "Tout public",
+      "slug": "tout-public",
+      "id": 70065,
+      "schemaOptionId": "19922.4"
+    },
+    {
+      "label": "Culture",
+      "slug": "culture",
+      "id": 70066,
+      "schemaOptionId": "19922.5"
+    },
+    {
+      "label": "Musique",
+      "slug": "musique",
+      "id": 70076,
+      "schemaOptionId": "19922.15"
+    }
+  ],
+  "tagGroups": [
+    {
+      "name": "Public visé",
+      "access": "public",
+      "slug": "public-vise",
+      "tags": [
+        {
+          "label": "Tout public",
+          "slug": "tout-public",
+          "id": 70065,
+          "schemaOptionId": "19922.4"
+        }
+      ]
+    },
+    {
+      "name": "Thématique",
+      "access": "public",
+      "slug": "thematique",
+      "tags": [
+        {
+          "label": "Culture",
+          "slug": "culture",
+          "id": 70066,
+          "schemaOptionId": "19922.5"
+        }
+      ]
+    },
+    {
+      "name": "Evenement",
+      "access": "public",
+      "slug": "evenement",
+      "tags": [
+        {
+          "label": "Musique",
+          "slug": "musique",
+          "id": 70076,
+          "schemaOptionId": "19922.15"
+        }
+      ]
+    }
+  ],
+  "linkedEvents": [],
+  "_locationId": "PAthFajRy6Gk6uxO",
+  "_id": "4X5nxqo702466aBq"
+}

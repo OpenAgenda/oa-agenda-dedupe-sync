@@ -1,0 +1,28 @@
+{
+  "name": "oa-agenda-dedupe-sync",
+  "description" : "Copies and syncs events and locations from one agenda to another. Processes location deduplication operations during sync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha",
+    "start": "node run"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "debug": "^4.1.1",
+    "fast-csv": "^3.4.0",
+    "fast-levenshtein": "^2.0.6",
+    "geolib": "^3.1.0",
+    "lodash": "^4.17.15",
+    "nedb": "^1.8.0",
+    "nodemailer": "^6.4.2",
+    "prompts": "^2.3.0",
+    "superagent": "^5.1.2",
+    "verror": "^1.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2",
+    "should": "^13.2.3"
+  }
+}

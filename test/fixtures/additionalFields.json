@@ -1,0 +1,239 @@
+[
+  {
+    "field": "public-vise",
+    "label": {
+      "fr": "Public visé"
+    },
+    "help": null,
+    "helpLink": null,
+    "helpContent": null,
+    "default": null,
+    "info": null,
+    "sub": null,
+    "placeholder": null,
+    "write": null,
+    "read": null,
+    "optional": false,
+    "display": true,
+    "origin": "tags",
+    "enableWith": null,
+    "related": [],
+    "min": null,
+    "max": null,
+    "options": [
+      {
+        "id": 1,
+        "value": "jeune-public",
+        "label": {
+          "fr": "Jeune Public"
+        }
+      },
+      {
+        "id": 2,
+        "value": "seniors",
+        "label": {
+          "fr": "Séniors"
+        }
+      },
+      {
+        "id": 3,
+        "value": "adultes",
+        "label": {
+          "fr": "Adultes"
+        }
+      },
+      {
+        "id": 4,
+        "value": "tout-public",
+        "label": {
+          "fr": "Tout public"
+        }
+      }
+    ],
+    "fieldType": "checkbox",
+    "schemaId": 19922
+  },
+  {
+    "field": "thematique",
+    "label": {
+      "fr": "Thématique"
+    },
+    "help": null,
+    "helpLink": null,
+    "helpContent": null,
+    "default": null,
+    "info": null,
+    "sub": null,
+    "placeholder": null,
+    "write": null,
+    "read": null,
+    "optional": false,
+    "display": true,
+    "origin": "tags",
+    "enableWith": null,
+    "related": [],
+    "min": null,
+    "max": null,
+    "options": [
+      {
+        "id": 5,
+        "value": "culture",
+        "label": {
+          "fr": "Culture"
+        }
+      },
+      {
+        "id": 6,
+        "value": "sport",
+        "label": {
+          "fr": "Sport"
+        }
+      },
+      {
+        "id": 7,
+        "value": "developpement-durable",
+        "label": {
+          "fr": "Développement durable"
+        }
+      },
+      {
+        "id": 8,
+        "value": "education-jeunesse",
+        "label": {
+          "fr": "Education - jeunesse"
+        }
+      },
+      {
+        "id": 9,
+        "value": "emploi",
+        "label": {
+          "fr": "Emploi"
+        }
+      },
+      {
+        "id": 10,
+        "value": "vie-municipale",
+        "label": {
+          "fr": "Vie municipale"
+        }
+      }
+    ],
+    "fieldType": "checkbox",
+    "schemaId": 19922
+  },
+  {
+    "field": "evenement",
+    "label": {
+      "fr": "Evenement"
+    },
+    "help": null,
+    "helpLink": null,
+    "helpContent": null,
+    "default": null,
+    "info": null,
+    "sub": null,
+    "placeholder": null,
+    "write": null,
+    "read": null,
+    "optional": false,
+    "display": true,
+    "origin": "tags",
+    "enableWith": null,
+    "related": [],
+    "options": [
+      {
+        "id": 11,
+        "value": "cinema",
+        "label": {
+          "fr": "Cinéma"
+        }
+      },
+      {
+        "id": 12,
+        "value": "danse",
+        "label": {
+          "fr": "Danse"
+        }
+      },
+      {
+        "id": 13,
+        "value": "exposition",
+        "label": {
+          "fr": "Exposition"
+        }
+      },
+      {
+        "id": 14,
+        "value": "festival",
+        "label": {
+          "fr": "Festival"
+        }
+      },
+      {
+        "id": 15,
+        "value": "musique",
+        "label": {
+          "fr": "Musique"
+        }
+      },
+      {
+        "id": 16,
+        "value": "portes-ouvertes",
+        "label": {
+          "fr": "Portes ouvertes"
+        }
+      },
+      {
+        "id": 17,
+        "value": "spectacle",
+        "label": {
+          "fr": "Spectacle"
+        }
+      },
+      {
+        "id": 18,
+        "value": "visite-guidee",
+        "label": {
+          "fr": "Visite guidée"
+        }
+      },
+      {
+        "id": 19,
+        "value": "lecture-conference",
+        "label": {
+          "fr": "Lecture Conférence"
+        }
+      },
+      {
+        "id": 20,
+        "value": "atelier",
+        "label": {
+          "fr": "Atelier"
+        }
+      },
+      {
+        "id": 21,
+        "value": "animation",
+        "label": {
+          "fr": "Animation"
+        }
+      },
+      {
+        "id": 22,
+        "value": "sport",
+        "label": {
+          "fr": "Sport"
+        }
+      },
+      {
+        "id": 23,
+        "value": "foire-salon",
+        "label": {
+          "fr": "Foire - Salon"
+        }
+      }
+    ],
+    "fieldType": "radio",
+    "schemaId": 19922
+  }
+]
