@@ -53,3 +53,14 @@ Un exemple de fichier de contenu de fichier de configuration:
       "mailgunPassword" : "pwd1-pwd2-pwd3",
       "reportRecipients" : "email1@domain.com, email2@domain.com, email3@domain.com"
     }
+
+# Dédoublonnage manuel
+
+Si des doublons n'ont pas été identifiés par le script, un dédoublonnage manuel reste possible en partant du dernier rapport d'execution envoyé par email:
+
+ 1. Ouvrez le dernier rapport d'execution
+ 2. Identifiez un doublon qui n'a pas été dédoublonné automatiquement
+ 3. Pour ce doublon, reperez si un identifiant de dédoublonnage a été déjà été saisi pour ce lieu sur l'avant dernière colonne. Définissez-en un si ce n'est pas le cas - les initiales du lieu par exemple (mcna, tmn, mjjn...)
+ 4. Pour chaque ligne à dédoublonner, rendez-vous sur le formulaire accessible via le lien fourni en dernière colonne, précisez-y l'identifiant de dédoublonnage
+
+Le script s'appuyera sur ces identifiants à sa prochaine execution pour effectuer un dédoublonnage.
